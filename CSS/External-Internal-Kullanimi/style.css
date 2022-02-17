@@ -1,0 +1,24 @@
+body {
+    background-color: blanchedalmond;
+    color: white;
+    font-family: Cursive, serif;
+
+}
+
+h2 { 
+    color: rgb(140, 103, 241); 
+    font-size: 56px;
+    text-transform: uppercase;
+}
+
+p {
+    color: rgb(0, 65, 48);
+    font-size: 65px;
+    font-family: monospace;
+}
+
+ul{
+    color: rgb(204, 39, 39);
+    font-size: 25px
+
+}

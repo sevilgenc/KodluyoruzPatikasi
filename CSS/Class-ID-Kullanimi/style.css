@@ -1,0 +1,33 @@
+/*************** Layout ***************************/
+
+/* .id -> #i-bilgisi{} */
+#third-article{
+    font-size: 26px;
+}
+
+/* tum headingler icin belirlenen bir kural varsa; birden fazla basliga aynı anda ozellik verebildik*/
+h1,h2,h3{
+    color: blueviolet;
+}
+h1 {
+    font-size: 30px;
+    color: #202020;
+}
+
+/**************** class -> .text-red{} **********************/
+.text-red{
+    color: red;
+}
+
+.fs-14{
+    font-size: 14px;
+}
+
+.fs-20{
+    font-size:20px ;
+}
+.fs-30{
+    font-size: 30px;
+}
+
+
